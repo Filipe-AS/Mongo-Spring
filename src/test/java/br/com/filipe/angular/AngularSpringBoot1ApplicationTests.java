@@ -1,4 +1,4 @@
-package br.com.ivana.angular;
+package br.com.filipe.angular;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
